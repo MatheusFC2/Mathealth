@@ -9,7 +9,7 @@ export default function App() {
     <View style={styles.container}>
       <Title/>
       <Main/>
-      <StatusBar style="auto" />
+      <StatusBar style="dark" />
     </View>
   );
 }
