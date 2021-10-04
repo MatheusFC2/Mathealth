@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/MatheusFC2/Mathealth/master/assets/celularmobile.png" alt="Imagem do projeto">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
 ## 💻 Pré-requisitos
 
